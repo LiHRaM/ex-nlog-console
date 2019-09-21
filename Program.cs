@@ -5,7 +5,7 @@ using Microsoft.Extensions.Logging;
 using NLog;
 using NLog.Extensions.Logging;
 
-namespace nlog_test
+namespace ex_nlog_console
 {
     class Program
     {

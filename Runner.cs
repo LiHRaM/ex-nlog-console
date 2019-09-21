@@ -1,6 +1,6 @@
 using Microsoft.Extensions.Logging;
 
-namespace nlog_test
+namespace ex_nlog_console
 {
     public class Runner
     {
